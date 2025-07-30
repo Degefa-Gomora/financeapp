@@ -10,5 +10,17 @@
         "amount": 50.0,
         "category": "rent",
         "description": "dgdgdfdfdgdgd"
+    },
+    {
+        "type": "income",
+        "amount": 1000.0,
+        "category": "salary",
+        "description": "salary from remote job"
+    },
+    {
+        "type": "expense",
+        "amount": 500.0,
+        "category": "rent",
+        "description": "house rent"
     }
 ]
